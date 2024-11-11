@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Documents\PATRONES\FACADE\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Definitions.DonkeyKong_USFX.h
+C:\Users\LENOVO\Documents\PATRONES\FACADE\DonkeyKong_USFX\Source\DonkeyKong_USFX\BuilderTipoB.h
+C:\Users\LENOVO\Documents\PATRONES\FACADE\DonkeyKong_USFX\Source\DonkeyKong_USFX\BuilderNiveles.h
+C:\Users\LENOVO\Documents\PATRONES\FACADE\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\BuilderNiveles.generated.h
+C:\Users\LENOVO\Documents\PATRONES\FACADE\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\BuilderTipoB.generated.h
+C:\Users\LENOVO\Documents\PATRONES\FACADE\DonkeyKong_USFX\Source\DonkeyKong_USFX\Plataforma.h
+C:\Users\LENOVO\Documents\PATRONES\FACADE\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\Plataforma.generated.h
+C:\Users\LENOVO\Documents\PATRONES\FACADE\DonkeyKong_USFX\Source\DonkeyKong_USFX\Escaleras.h
+C:\Users\LENOVO\Documents\PATRONES\FACADE\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\Escaleras.generated.h

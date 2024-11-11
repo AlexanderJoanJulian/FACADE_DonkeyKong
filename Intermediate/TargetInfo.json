@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DonkeyKong_USFX",
+			"Path": "C:\\Users\\LENOVO\\Documents\\PATRONES\\FACADE\\DonkeyKong_USFX\\Source\\DonkeyKong_USFX.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DonkeyKong_USFXEditor",
+			"Path": "C:\\Users\\LENOVO\\Documents\\PATRONES\\FACADE\\DonkeyKong_USFX\\Source\\DonkeyKong_USFXEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

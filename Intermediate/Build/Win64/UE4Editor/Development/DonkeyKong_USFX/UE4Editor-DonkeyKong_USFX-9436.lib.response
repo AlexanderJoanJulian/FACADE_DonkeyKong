@@ -1,0 +1,35 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DonkeyKong_USFX-9436.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\DonkeyKong_USFXEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Arquitecto.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\BuilderNiveles.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\BuilderTipoA.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\BuilderTipoB.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\DonkeyKong_USFX.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\DonkeyKong_USFXCharacter.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\DonkeyKong_USFXGameMode.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\EnemigoGargola.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Enemigos.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\EnemigosFacade.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Escaleras.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Plataforma.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Arquitecto.gen.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\BuilderNiveles.gen.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\BuilderTipoA.gen.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\BuilderTipoB.gen.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\DonkeyKong_USFX.init.gen.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\DonkeyKong_USFXCharacter.gen.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\DonkeyKong_USFXGameMode.gen.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\EnemigoGargola.gen.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Enemigos.gen.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\EnemigosFacade.gen.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Escaleras.gen.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Plataforma.gen.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Default.rc2.res"
+/OUT:"C:\UNREAL PROYECTOS\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\UE4Editor-DonkeyKong_USFX-9436.lib"

@@ -1,0 +1,2 @@
+C:\Users\LENOVO\Documents\PATRONES\FACADE\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Definitions.DonkeyKong_USFX.h
+C:\Users\LENOVO\Documents\PATRONES\FACADE\DonkeyKong_USFX\Source\DonkeyKong_USFX\DonkeyKong_USFX.h
